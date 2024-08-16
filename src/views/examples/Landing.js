@@ -119,10 +119,9 @@ class Landing extends React.Component {
                             <i className="ni ni-istanbul" />
                           </div>
                           <h6 className="text-success text-uppercase">
-                          Journey to Self-Awareness
-                          </h6>
+                          Pursue Meaningful Goals                          </h6>
                           <p className="description mt-3">
-                          Reflect on pivotal moments and gain insights into who you are. Our deck helps you navigate through self-discovery with thought-provoking questions.
+                          Consider questions aimed at clarifying your long-term goals and aspirations. Use these prompts to align your daily actions with your broader ambitions and find purpose in your pursuits.
                           </p>
                           <div>
                             
